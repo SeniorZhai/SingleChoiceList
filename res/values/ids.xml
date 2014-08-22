@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="translucent_view" />
+    <item type="id" name="horizontal_line_1" />
+    <item type="id" name="type_radios" />
+    <item type="id" name="notification_type_all" />
+    <item type="id" name="notification_type_at_me" />
+    <item type="id" name="notification_type_comment_liked" />
+    <item type="id" name="top_bar" />
+    <item type="id" name="top_bar_title" />
+    <item type="id" name="comment_content" />
+    <item type="id" name="comment_liked_count" />
+    <item type="id" name="action_record" />
+    <item type="id" name="reason" />
+    <item type="id" name="article_informations" />
+    <item type="id" name="prompt_view_fling_direction" />
+    <item type="id" name="prompt_view_action_id" />
+    <item type="id" name="show_article_fling_left_prompt" />
+    <item type="id" name="show_article_fling_right_prompt" />
+    <item type="id" name="skin_tag" />
+    <item type="id" name="user_info_tag" />
+    <item type="id" name="view_tag" />
+    <item type="id" name="position_tag" />
+    <item type="id" name="item_tag" />
+    <item type="id" name="big_image_tag" />
+    <item type="id" name="reader_item_read_tag" />
+    <item type="id" name="process_item_working_tag" />
+    <item type="id" name="process_item_tag" />
+    <item type="id" name="current_theme" />
+    <item type="id" name="image_load_mode" />
+    <item type="id" name="article_font_size" />
+    <item type="id" name="push_service_started" />
+    <item type="id" name="request_code_comment_activity" />
+    <item type="id" name="request_code_comment_detail_activity" />
+    <item type="id" name="request_code_weibo_web_view_binding_activity" />
+    <item type="id" name="request_code_weibo_web_view_login_activity" />
+    <item type="id" name="request_code_at_user_list_activity" />
+    <item type="id" name="request_code_sina_sso" />
+    <item type="id" name="request_code_comment_fragment_activity" />
+    <item type="id" name="request_code_share_activity" />
+    <item type="id" name="request_code_image_gallery_activity" />
+    <item type="id" name="request_code_cover_activity" />
+    <item type="id" name="request_code_account_setting_activity" />
+    <item type="id" name="request_code_image_capture_activity" />
+    <item type="id" name="request_code_screen_name_setting_activity" />
+    <item type="id" name="request_code_image_pick_activity" />
+    <item type="id" name="request_code_profile_setting_activity" />
+    <item type="id" name="request_code_weibo_bindding_activity" />
+    <item type="id" name="request_code_article_activity" />
+    <item type="id" name="request_code_private_msg_receiver_list_activity" />
+    <item type="id" name="request_code_message_detail_activity" />
+    <item type="id" name="request_code_settings_activity" />
+    <item type="id" name="result_code_sina_oauth" />
+    <item type="id" name="result_code_qq_oauth" />
+    <item type="id" name="notify_app_download" />
+    <item type="id" name="push_news" />
+    <item type="id" name="push_notification" />
+    <item type="id" name="push_generic" />
+    <item type="id" name="push_link" />
+    <item type="id" name="offline_download_msg_update_progress" />
+    <item type="id" name="offline_download_msg_unfinished" />
+    <item type="id" name="offline_download_msg_sync" />
+    <item type="id" name="offline_download_msg_start_timing_download" />
+    <item type="id" name="offline_download_msg_stop_downloading" />
+    <item type="id" name="offline_download_msg_unregister_client" />
+    <item type="id" name="offline_download_msg_cancel_subscription" />
+    <item type="id" name="offline_download_msg_start_to_download" />
+    <item type="id" name="offline_download_msg_register_client" />
+    <item type="id" name="timing_offline_download_skipped" />
+    <item type="id" name="notify_offline_download" />
+    <item type="id" name="notify_offline_download_finished" />
+    <item type="id" name="push_service" />
+    <item type="id" name="selected_view" />
+    <item type="id" name="shake_setting_mode" />
+    <item type="id" name="show_secondary_menu" />
+    <item type="id" name="show_first_subscription_channel" />
+    <item type="id" name="create_shortcut" />
+    <item type="id" name="app_first_launch" />
+    <item type="id" name="show_main_fling_right_prompt" />
+    <item type="id" name="show_main_fling_left_prompt" />
+    <item type="id" name="show_comment_fling_right_prompt" />
+    <item type="id" name="show_like_article_prompt" />
+    <item type="id" name="show_dislike_article_prompt" />
+    <item type="id" name="show_subscription_preview_prompt" />
+    <item type="id" name="request_code_collection_activity" />
+    <item type="id" name="request_code_collection_folder_edit_activity" />
+    <item type="id" name="request_code_collection_folder_selection_activity" />
+    <item type="id" name="request_code_collection_folder_manage_activity" />
+    <item type="id" name="request_code_private_msg_activity" />
+    <item type="id" name="request_code_weibo_binding_activity" />
+    <item type="id" name="request_code_subscription_activity" />
+    <item type="id" name="request_code_subscription_center_activity" />
+    <item type="id" name="request_code_subscription_detail_activity" />
+    <item type="id" name="request_code_subscription_preview_activity" />
+    <item type="id" name="result_code_created_new_folder" />
+    <item type="id" name="result_code_updated_folder" />
+    <item type="id" name="result_code_deleted_folder" />
+    <item type="id" name="result_code_cleared_folder" />
+    <item type="id" name="result_code_cover_activity_canceled" />
+    <item type="id" name="result_code_cover_activity_completed" />
+    <item type="id" name="notify_generic" />
+    <item type="id" name="title">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="account_creation_fragment">false</item>
+    <item type="id" name="avatar">false</item>
+    <item type="id" name="screen_name_layout">false</item>
+    <item type="id" name="change_screen_name">false</item>
+    <item type="id" name="screen_name">false</item>
+    <item type="id" name="email_layout">false</item>
+    <item type="id" name="email">false</item>
+    <item type="id" name="description">false</item>
+    <item type="id" name="back">false</item>
+    <item type="id" name="search">false</item>
+    <item type="id" name="weibo_layout">false</item>
+    <item type="id" name="subtitle">false</item>
+    <item type="id" name="container">false</item>
+    <item type="id" name="top_bar_toast">false</item>
+    <item type="id" name="more">false</item>
+    <item type="id" name="comment">false</item>
+    <item type="id" name="comment_count">false</item>
+    <item type="id" name="like">false</item>
+    <item type="id" name="remove_read_it_later">false</item>
+    <item type="id" name="top_bar_shadow">false</item>
+    <item type="id" name="prompt_layout">false</item>
+    <item type="id" name="list_view">false</item>
+    <item type="id" name="manage">false</item>
+    <item type="id" name="bottom_bar">false</item>
+    <item type="id" name="remove_layout">false</item>
+    <item type="id" name="remove">false</item>
+    <item type="id" name="move_layout">false</item>
+    <item type="id" name="move">false</item>
+    <item type="id" name="create">false</item>
+    <item type="id" name="folder_name_title">false</item>
+    <item type="id" name="folder_name">false</item>
+    <item type="id" name="privacy_setting">false</item>
+    <item type="id" name="delete">false</item>
+    <item type="id" name="publish">false</item>
+    <item type="id" name="remaining_text_length">false</item>
+    <item type="id" name="sync_check">false</item>
+    <item type="id" name="sync_to_weibo">false</item>
+    <item type="id" name="sina_sync">false</item>
+    <item type="id" name="qq_sync">false</item>
+    <item type="id" name="at">false</item>
+    <item type="id" name="edit_box">false</item>
+    <item type="id" name="bottom_menu">false</item>
+    <item type="id" name="viewpager">false</item>
+    <item type="id" name="indicator">false</item>
+    <item type="id" name="sort_by">false</item>
+    <item type="id" name="cover_footer">false</item>
+    <item type="id" name="cover_logo">false</item>
+    <item type="id" name="send">false</item>
+    <item type="id" name="view_pager">false</item>
+    <item type="id" name="buttom_menu">false</item>
+    <item type="id" name="summary">false</item>
+    <item type="id" name="index">false</item>
+    <item type="id" name="close">false</item>
+    <item type="id" name="download">false</item>
+    <item type="id" name="share">false</item>
+    <item type="id" name="top_bar_back">false</item>
+    <item type="id" name="password">false</item>
+    <item type="id" name="msg_list">false</item>
+    <item type="id" name="bottom_edit_area_layout">false</item>
+    <item type="id" name="word_count">false</item>
+    <item type="id" name="placeholder">false</item>
+    <item type="id" name="my_subscriptoin_list">false</item>
+    <item type="id" name="move_hook">false</item>
+    <item type="id" name="tabhost">false</item>
+    <item type="id" name="push_notificatioin_title">false</item>
+    <item type="id" name="push_notification_important">false</item>
+    <item type="id" name="push_setting_layout">false</item>
+    <item type="id" name="push_notification_private_msg">false</item>
+    <item type="id" name="push_notification_following">false</item>
+    <item type="id" name="push_notification_at">false</item>
+    <item type="id" name="push_notification_comment_liked">false</item>
+    <item type="id" name="push_notification_friend_join">false</item>
+    <item type="id" name="push_notification_discuss">false</item>
+    <item type="id" name="notification_app">false</item>
+    <item type="id" name="item_like_notify">false</item>
+    <item type="id" name="notify_item_like_title">false</item>
+    <item type="id" name="notify_item_like">false</item>
+    <item type="id" name="comment_notify">false</item>
+    <item type="id" name="notify_comment_title">false</item>
+    <item type="id" name="notify_comment">false</item>
+    <item type="id" name="comment_liked_notify">false</item>
+    <item type="id" name="notify_comment_like_title">false</item>
+    <item type="id" name="notify_comment_like">false</item>
+    <item type="id" name="email_notification">false</item>
+    <item type="id" name="email_notification_title">false</item>
+    <item type="id" name="follow_me">false</item>
+    <item type="id" name="layout_send_frequency">false</item>
+    <item type="id" name="send_frequency_title">false</item>
+    <item type="id" name="email_follow_frequency">false</item>
+    <item type="id" name="message_me">false</item>
+    <item type="id" name="at_me">false</item>
+    <item type="id" name="layout_download_progress">false</item>
+    <item type="id" name="progress">false</item>
+    <item type="id" name="button">false</item>
+    <item type="id" name="channel_list">false</item>
+    <item type="id" name="layout_download_mode">false</item>
+    <item type="id" name="offline_title">false</item>
+    <item type="id" name="offline_download_mode_desc">false</item>
+    <item type="id" name="timing_download">false</item>
+    <item type="id" name="download_time_layout">false</item>
+    <item type="id" name="download_title">false</item>
+    <item type="id" name="download_time">false</item>
+    <item type="id" name="enable_all">false</item>
+    <item type="id" name="disable_all">false</item>
+    <item type="id" name="private_msg_fragment">false</item>
+    <item type="id" name="save">false</item>
+    <item type="id" name="weibo_bindding">false</item>
+    <item type="id" name="notification_setting">false</item>
+    <item type="id" name="layout_image_load_mode">false</item>
+    <item type="id" name="load_mode_desc">false</item>
+    <item type="id" name="offline_download">false</item>
+    <item type="id" name="layout_night_mode">false</item>
+    <item type="id" name="night_mode">false</item>
+    <item type="id" name="night_mode_check_box">false</item>
+    <item type="id" name="layout_article_font_size">false</item>
+    <item type="id" name="article_font_size_desc">false</item>
+    <item type="id" name="layout_shake_mode">false</item>
+    <item type="id" name="shake_mode">false</item>
+    <item type="id" name="shake_mode_desc">false</item>
+    <item type="id" name="layout_cache_size">false</item>
+    <item type="id" name="cache_size">false</item>
+    <item type="id" name="cache_size_desc">false</item>
+    <item type="id" name="official_weibo">false</item>
+    <item type="id" name="about_us">false</item>
+    <item type="id" name="feedback">false</item>
+    <item type="id" name="update_check">false</item>
+    <item type="id" name="app_recommendation">false</item>
+    <item type="id" name="search_box_layout">false</item>
+    <item type="id" name="update_list">false</item>
+    <item type="id" name="no_update_hint">false</item>
+    <item type="id" name="title_container">false</item>
+    <item type="id" name="empty_content">false</item>
+    <item type="id" name="user_updates">false</item>
+    <item type="id" name="right_button">false</item>
+    <item type="id" name="receiver_list">false</item>
+    <item type="id" name="blade">false</item>
+    <item type="id" name="broswer">false</item>
+    <item type="id" name="progress_bar">false</item>
+    <item type="id" name="web_view">false</item>
+    <item type="id" name="layout_sina">false</item>
+    <item type="id" name="sina_weibo_title">false</item>
+    <item type="id" name="sina_weibo">false</item>
+    <item type="id" name="layout_qq">false</item>
+    <item type="id" name="qq_weibo_title">false</item>
+    <item type="id" name="qq_weibo">false</item>
+    <item type="id" name="like_article">false</item>
+    <item type="id" name="sync_like_item_down_layout">false</item>
+    <item type="id" name="weibo_display_style_title">false</item>
+    <item type="id" name="display_style">false</item>
+    <item type="id" name="like_comment">false</item>
+    <item type="id" name="divider_line_1">false</item>
+    <item type="id" name="read_it_later">false</item>
+    <item type="id" name="divider_line_2">false</item>
+    <item type="id" name="collect">false</item>
+    <item type="id" name="divider_line_3">false</item>
+    <item type="id" name="font">false</item>
+    <item type="id" name="divider_line_4">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="loading">false</item>
+    <item type="id" name="error">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="total_count">false</item>
+    <item type="id" name="creation_time">false</item>
+    <item type="id" name="setting">false</item>
+    <item type="id" name="line">false</item>
+    <item type="id" name="article_num">false</item>
+    <item type="id" name="avatar_right">false</item>
+    <item type="id" name="avatar_left">false</item>
+    <item type="id" name="content_container">false</item>
+    <item type="id" name="comment_time">false</item>
+    <item type="id" name="like_comment_update_container">false</item>
+    <item type="id" name="tab_text">false</item>
+    <item type="id" name="tab_line">false</item>
+    <item type="id" name="comment_content_layout">false</item>
+    <item type="id" name="replied_comment_content">false</item>
+    <item type="id" name="reload">false</item>
+    <item type="id" name="rank">false</item>
+    <item type="id" name="num_comment_liked">false</item>
+    <item type="id" name="content_frame">false</item>
+    <item type="id" name="menu_grid">false</item>
+    <item type="id" name="popup_list">false</item>
+    <item type="id" name="dim_line">false</item>
+    <item type="id" name="follow">false</item>
+    <item type="id" name="manage_channels">false</item>
+    <item type="id" name="setting_img_view">false</item>
+    <item type="id" name="guess_you_like_layout">false</item>
+    <item type="id" name="guess_you_like_icon">false</item>
+    <item type="id" name="guess_you_like_title">false</item>
+    <item type="id" name="read_it_later_layout">false</item>
+    <item type="id" name="read_it_later_icon">false</item>
+    <item type="id" name="read_it_later_title">false</item>
+    <item type="id" name="user_layout">false</item>
+    <item type="id" name="user_avatar">false</item>
+    <item type="id" name="private_msg">false</item>
+    <item type="id" name="private_msg_notice">false</item>
+    <item type="id" name="module_layout">false</item>
+    <item type="id" name="friends_updates">false</item>
+    <item type="id" name="community_hot">false</item>
+    <item type="id" name="find_friends_layout">false</item>
+    <item type="id" name="find_friends">false</item>
+    <item type="id" name="new_friends_notice">false</item>
+    <item type="id" name="notification_list">false</item>
+    <item type="id" name="notificaton_setting_layout">false</item>
+    <item type="id" name="notification_more">false</item>
+    <item type="id" name="num_new_notifications">false</item>
+    <item type="id" name="chat_info_list">false</item>
+    <item type="id" name="reader_list">false</item>
+    <item type="id" name="channel_list_menu">false</item>
+    <item type="id" name="top_bar_title_layout">false</item>
+    <item type="id" name="top_bar_progress">false</item>
+    <item type="id" name="community_center_menu">false</item>
+    <item type="id" name="tips_page">false</item>
+    <item type="id" name="guess_button">false</item>
+    <item type="id" name="item_name">false</item>
+    <item type="id" name="dialog_container">false</item>
+    <item type="id" name="circle">false</item>
+    <item type="id" name="close_btn">false</item>
+    <item type="id" name="guessing">false</item>
+    <item type="id" name="horizontal_line">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="indicator_line">false</item>
+    <item type="id" name="split_line">false</item>
+    <item type="id" name="item_info">false</item>
+    <item type="id" name="content_thumbnail">false</item>
+    <item type="id" name="logout">false</item>
+    <item type="id" name="menu_frame">false</item>
+    <item type="id" name="menu_frame_two">false</item>
+    <item type="id" name="receiver_avatar">false</item>
+    <item type="id" name="sender_avatar">false</item>
+    <item type="id" name="message_content">false</item>
+    <item type="id" name="message_timestamp">false</item>
+    <item type="id" name="send_failed">false</item>
+    <item type="id" name="sending">false</item>
+    <item type="id" name="ok_or_cancel_layout">false</item>
+    <item type="id" name="vertical_buttons_layout">false</item>
+    <item type="id" name="button_stub_1">false</item>
+    <item type="id" name="button_stub_2">false</item>
+    <item type="id" name="button_stub_3">false</item>
+    <item type="id" name="subscription_name">false</item>
+    <item type="id" name="action">false</item>
+    <item type="id" name="timestamp">false</item>
+    <item type="id" name="item_title">false</item>
+    <item type="id" name="update_notification_aggregate_container">false</item>
+    <item type="id" name="updates">false</item>
+    <item type="id" name="notifiaction_aggregate_container">false</item>
+    <item type="id" name="status_icon">false</item>
+    <item type="id" name="status_text">false</item>
+    <item type="id" name="status_progress">false</item>
+    <item type="id" name="header">false</item>
+    <item type="id" name="comment_like_users">false</item>
+    <item type="id" name="ok">false</item>
+    <item type="id" name="vertical_line">false</item>
+    <item type="id" name="cancel">false</item>
+    <item type="id" name="item_header_text">false</item>
+    <item type="id" name="progressing_text">false</item>
+    <item type="id" name="prompt_view">false</item>
+    <item type="id" name="tip_icon">false</item>
+    <item type="id" name="tips">false</item>
+    <item type="id" name="tip_add_some_subscriptions">false</item>
+    <item type="id" name="tip_link_to_weibo">false</item>
+    <item type="id" name="tip_like_some_articles">false</item>
+    <item type="id" name="content_layout">false</item>
+    <item type="id" name="reader_item_reason_view_stub">false</item>
+    <item type="id" name="menu">false</item>
+    <item type="id" name="reason_desc_pic">false</item>
+    <item type="id" name="reason_avatar">false</item>
+    <item type="id" name="reason_desc">false</item>
+    <item type="id" name="reason_like_pic">false</item>
+    <item type="id" name="name">false</item>
+    <item type="id" name="search_box">false</item>
+    <item type="id" name="clear_text">false</item>
+    <item type="id" name="search_layout">false</item>
+    <item type="id" name="search_list">false</item>
+    <item type="id" name="searching_layout">false</item>
+    <item type="id" name="search_empty">false</item>
+    <item type="id" name="selection_list">false</item>
+    <item type="id" name="setting_title">false</item>
+    <item type="id" name="setting_check_box">false</item>
+    <item type="id" name="grid_view">false</item>
+    <item type="id" name="slidingmenumain">false</item>
+    <item type="id" name="category_name">false</item>
+    <item type="id" name="item_container">false</item>
+    <item type="id" name="subscription_selected">false</item>
+    <item type="id" name="tip_container">false</item>
+    <item type="id" name="tip_content">false</item>
+    <item type="id" name="top_bar_right_btn">false</item>
+    <item type="id" name="notice">false</item>
+    <item type="id" name="plus_one">false</item>
+    <item type="id" name="update_bottom_title_layout">false</item>
+    <item type="id" name="header_container">false</item>
+    <item type="id" name="action_time">false</item>
+    <item type="id" name="update_type_desc">false</item>
+    <item type="id" name="group_name">false</item>
+    <item type="id" name="group_check">false</item>
+    <item type="id" name="layout_header_top">false</item>
+    <item type="id" name="top_bg">false</item>
+    <item type="id" name="num_comment_likes_by_others">false</item>
+    <item type="id" name="apps">false</item>
+    <item type="id" name="sina">false</item>
+    <item type="id" name="qq">false</item>
+    <item type="id" name="user_items">false</item>
+    <item type="id" name="collections">false</item>
+    <item type="id" name="num_collections">false</item>
+    <item type="id" name="num_collections_desc">false</item>
+    <item type="id" name="likes">false</item>
+    <item type="id" name="num_likes">false</item>
+    <item type="id" name="num_likes_desc">false</item>
+    <item type="id" name="followings">false</item>
+    <item type="id" name="num_followings">false</item>
+    <item type="id" name="num_followings_desc">false</item>
+    <item type="id" name="fans">false</item>
+    <item type="id" name="num_fans">false</item>
+    <item type="id" name="num_fans_desc">false</item>
+    <item type="id" name="group">false</item>
+    <item type="id" name="invite">false</item>
+    <item type="id" name="xlist_view_footer_hint_textview">false</item>
+    <item type="id" name="xlist_view_footer_arrow">false</item>
+    <item type="id" name="xlist_view_footer_progressbar">false</item>
+    <item type="id" name="xlist_view_header_content">false</item>
+    <item type="id" name="xlist_view_header_text">false</item>
+    <item type="id" name="xlist_view_header_hint_textview">false</item>
+    <item type="id" name="time_container">false</item>
+    <item type="id" name="xlist_view_header_time_des">false</item>
+    <item type="id" name="xlist_view_header_time">false</item>
+    <item type="id" name="xlist_view_header_arrow">false</item>
+    <item type="id" name="xlist_view_header_progressbar">false</item>
+</resources>
