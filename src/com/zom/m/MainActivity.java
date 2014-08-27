@@ -66,7 +66,7 @@ public class MainActivity extends Activity {
 			TextView tv = (TextView) convertView.findViewById(R.id.tv);// 显示文字
 			tv.setText(items_text[position]);
 			if (position == cur_pos) {// 如果当前的行就是ListView中选中的一行，就更改显示样式
-				convertView.setBackgroundColor(R.drawable.channel_list_item_bg_selected);// 更改整行的背景色
+				convertView.setBackgroundColor(0xaa4fc1e9);// 更改整行的背景色
 			}
 			return convertView;
 		}
